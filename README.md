@@ -1,0 +1,1 @@
+This repository demonstrates two common, yet subtle, errors in PHP related to array key type handling and using foreach loops without accessing keys. The `bug.php` file shows the problematic code, while `bugSolution.php` offers corrected versions.
